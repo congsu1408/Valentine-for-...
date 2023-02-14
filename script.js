@@ -22,7 +22,7 @@ var pageW = document.body.offsetWidth;
       "https://cdn.jsdelivr.net/npm/vara@1.4.0/fonts/Pacifico/PacificoSLO.json",
       [
         {
-          text: `Love you! Your ....<3`,
+          text: `Love you! My....<3`,
           textAlign: "center",
           delay: 11000,
         },
